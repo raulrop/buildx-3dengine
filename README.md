@@ -1,4 +1,4 @@
-# buil-your-own-x-3dengine
+# build-your-own-x-3dengine
 ### I do not take credit for anything done here ❗
 ##### Project done for learning  🤓
 
